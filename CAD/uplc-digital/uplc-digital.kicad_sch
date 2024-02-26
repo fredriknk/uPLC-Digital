@@ -3495,8 +3495,8 @@
     (pin "7" (uuid f1af78da-25ce-4f3b-819a-7ae7001c36a6))
     (pin "8" (uuid c7e3b8e6-c703-4972-b1d8-cfe07ef1be49))
     (pin "9" (uuid df7c23fc-95cd-4d50-9e7e-a5e22ab93973))
-    (pin "MP" (uuid 1ee1b73c-7659-4b4f-9b54-e9394e1a9961))
-    (pin "MP" (uuid 1ee1b73c-7659-4b4f-9b54-e9394e1a9961))
+    (pin "MP" (uuid 1ee1b73c-7659-4b4f-9b54-e9394e1a9963))
+    (pin "MP" (uuid 1ee1b73c-7659-4b4f-9b54-e9394e1a9963))
     (instances
       (project "uplc-digital"
         (path "/51bbc301-ea4a-44e0-84a7-cf42c64443ca"
