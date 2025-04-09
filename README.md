@@ -8,7 +8,7 @@ Thanks so much to [PCBWay](https://www.pcbway.com/) who offered to assemble my f
 
 ESP micro PLC the size of a post stamp. 
 
-The uPLC-digital version is an [ESP-32-C3](./DOCUMENTATION/esp-12f_product_specification_en.pdf) wifi, bluetooth module for communication and MCU, it has a 3.8-24V buck regulator, has three 2.5-25V inputs, three 2.5-25v, 100ma high speed open drain outputs through a [TBD062003](./DOCUMENTATION/2304140030_TOSHIBA-TBD62003AFWG_C114084.pdf) DMOS transistor array ic. And one protected 3.3v GPIO for onwire communication (Eg for DS18b20 sensors). The digital version allso has input voltage monitoring for battery applications. 
+The uPLC-digital version is an [ESP-32-C3](./DOCUMENTATION/esp-12f_product_specification_en.pdf) wifi, bluetooth module for communication and MCU, it has a 3.8-24V buck regulator, has three 2.5-25V inputs, three 2.5-25v 100ma high speed open drain outputs through a [TBD062003](./DOCUMENTATION/2304140030_TOSHIBA-TBD62003AFWG_C114084.pdf) DMOS transistor array ic. And one protected 3.3v GPIO for onwire communication (Eg for DS18b20 sensors). The digital version allso has input voltage monitoring for battery applications. 
 
 The HO HI ports can be configured to be inputs or outputs by jumping solder bridges one each side of the IC. By default 1-3 are outputs and 4-6 are inputs. 
 
