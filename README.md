@@ -1,5 +1,10 @@
-﻿# μPLC - Digital V1.1_WORK IN PROGRESS-UNTESTED_-
-![Front](./PICTURES/TOP.PNG)
+﻿# μPLC-Digital
+### Pcbway Sponsorship
+Thanks so much to PCBWay who offered to assemble my first prototype batch of all three [uPLC modules](https://github.com/fredriknk/uPLC-stack). They deliver awesome quality as always, see the result for yourself below.
+
+![Front](./PICTURES/uplc_digital.png)
+
+ I now have two prototypes of the uPLC-Digital so ESP-Home integrations will come soon.
 
 ESP micro PLC the size of a post stamp. 
 
@@ -44,9 +49,10 @@ TODO
 |_4-24V_ | Buck reg |3.8-24v polarity protected input |
 
 ## PCB Pictures
-![Front](./PICTURES/OTOP.PNG)
-![Side](./PICTURES/OLEFT.png)
-![Back](./PICTURES/OBOT.PNG)
+![Cable1](./PICTURES/u-plc-digital-cable-bottom.JPEG)
+![Cable2](./PICTURES/u-plc-digital-cable-top.JPEG)
+![Top](./PICTURES/IMG_0639.JPEG)
+![Bottom](./PICTURES/IMG_0640.JPEG)
 
 ## Homeassistant Implementation
 TODO
