@@ -1,6 +1,6 @@
 ﻿# μPLC-Digital
 ### Pcbway Sponsorship
-Thanks so much to PCBWay who offered to assemble my first prototype batch of all three [uPLC modules](https://github.com/fredriknk/uPLC-stack). They deliver awesome quality as always, see the result for yourself below.
+Thanks so much to [PCBWay](https://www.pcbway.com/) who offered to assemble my first prototype batch of all three [uPLC modules](https://github.com/fredriknk/uPLC-stack). They deliver awesome quality as always, see the result for yourself below.
 
 ![Front](./PICTURES/uplc_digital.png)
 
@@ -49,6 +49,7 @@ TODO
 |_4-24V_ | Buck reg |3.8-24v polarity protected input |
 
 ## PCB Pictures
+PCB assembly by [PCBWay](https://www.pcbway.com/)
 ![Cable1](./PICTURES/u-plc-digital-cable-bottom.JPEG)
 ![Cable2](./PICTURES/u-plc-digital-cable-top.JPEG)
 ![Top](./PICTURES/IMG_0639.JPEG)
