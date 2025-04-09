@@ -6272,6 +6272,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 97.79 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J226ME11D"
+			(at 97.79 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f75d25f-8e6f-478e-bc25-de98ddb46365")
 		)
@@ -6421,6 +6439,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 138.43 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 138.43 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95989db2-e39a-4d32-9214-aa3a6654ab4a")
 		)
@@ -6497,6 +6533,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 213.36 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 213.36 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 213.36 100.33 0)
 			(effects
 				(font
@@ -6587,6 +6641,24 @@
 			)
 		)
 		(property "LCSC Part #" "C2934560"
+			(at 92.71 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" ""
+			(at 92.71 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESP32-C3-WROOM-02-N4"
 			(at 92.71 53.34 0)
 			(effects
 				(font
@@ -6715,7 +6787,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C77020"
+			(at 78.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 78.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 78.74 116.84 0)
 			(effects
 				(font
@@ -6949,6 +7039,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 39.37 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402CG200J500NT"
+			(at 39.37 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "766ab0d4-e646-4542-9513-65fc20a66445")
 		)
@@ -7039,6 +7147,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Generic" "x"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0762KL"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7475,6 +7601,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 213.36 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
+			(at 213.36 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1ae99d5-7401-4fba-bec6-165775a22422")
 		)
@@ -7556,6 +7700,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 102.87 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 102.87 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "733a2504-3ee8-4b72-a8eb-c5198c3a5cc2")
 		)
@@ -7626,6 +7788,24 @@
 			)
 		)
 		(property "LCSC Part #" "C25744"
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
 			(at 36.83 156.21 0)
 			(effects
 				(font
@@ -7918,6 +8098,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 135.89 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
+			(at 135.89 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0e98dd6-0d2e-4a24-ad03-6580069111d4")
 		)
@@ -7954,7 +8152,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "4.7uH"
 			(at 73.66 110.49 90)
 			(effects
 				(font
@@ -7997,7 +8195,25 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C98340"
+		(property "LCSC Part #" "C82314"
+			(at 73.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 73.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " LQM2HPN4R7MG0L"
 			(at 73.66 113.03 0)
 			(effects
 				(font
@@ -8092,6 +8308,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 53.34 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1000TCE"
+			(at 53.34 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0831f780-daeb-40ec-91fe-02beafd9919b")
 		)
@@ -8176,6 +8410,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Generic" "x"
+			(at 102.87 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT023093FTH"
+			(at 102.87 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8330,6 +8582,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Generic" "x"
+			(at 39.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402CG200J500NT"
+			(at 39.37 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8496,6 +8766,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 213.36 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
+			(at 213.36 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6807baee-ece0-419e-9a16-6ac22fe9b8e2")
 		)
@@ -8570,6 +8858,24 @@
 			)
 		)
 		(property "LCSC Part #" "C191023"
+			(at 22.86 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" ""
+			(at 22.86 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
 			(at 22.86 102.87 0)
 			(effects
 				(font
@@ -8656,6 +8962,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 60.96 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f58dd884-c149-44f2-bfae-281c2a55bb3e")
 		)
@@ -8726,7 +9050,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C77020"
+			(at 21.59 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 21.59 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 21.59 31.75 0)
 			(effects
 				(font
@@ -8885,6 +9227,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 134.62 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 134.62 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "569841f1-2e9a-46a5-91c4-b4c4b7836437")
 		)
@@ -8954,6 +9314,24 @@
 			)
 		)
 		(property "LCSC Part #" "C2071044"
+			(at 48.26 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" ""
+			(at 48.26 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AP63201WU-7"
 			(at 48.26 115.57 0)
 			(effects
 				(font
@@ -9060,6 +9438,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 91.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J226ME11D"
+			(at 91.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5c05d56-8e5a-4d1a-8a80-be1e76461b2c")
 		)
@@ -9152,6 +9548,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 21.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J226ME11D"
+			(at 21.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23d86219-b48e-4fd6-ad3b-26030ed4115c")
 		)
@@ -9234,6 +9648,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 213.36 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 213.36 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 213.36 106.68 0)
 			(effects
 				(font
@@ -9388,6 +9820,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" ""
+			(at 207.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SM12B-GHS-TB(LF)(SN)"
+			(at 207.01 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec16f9f8-f997-4304-92ad-994263d17551")
 		)
@@ -9501,6 +9951,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 135.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 135.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -9662,6 +10130,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 135.89 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
+			(at 135.89 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e81367b-bd2a-4ca9-a241-c2ba43944c48")
 		)
@@ -9742,6 +10228,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 213.36 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 213.36 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 213.36 113.03 0)
 			(effects
 				(font
@@ -9905,6 +10409,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" ""
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 44.45 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5679e9e-30c6-4fa6-99de-82cc78958afd")
 		)
@@ -10053,6 +10575,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 135.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 135.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 135.89 93.98 0)
 			(effects
 				(font
@@ -10279,7 +10819,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C77020"
+			(at 62.23 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 62.23 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 62.23 115.57 0)
 			(effects
 				(font
@@ -10377,6 +10935,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Generic" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10679,6 +11255,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" ""
+			(at 44.45 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 44.45 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "383c2469-6e85-401b-ac4d-45adebfd20f3")
 		)
@@ -10832,6 +11426,24 @@
 				)
 			)
 		)
+		(property "Generic" "x"
+			(at 22.86 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
+			(at 22.86 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "762adb3e-4cb9-496a-88fe-a5ac099f6057")
 		)
@@ -10915,6 +11527,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 135.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 135.89 113.03 0)
 			(effects
 				(font
@@ -11218,6 +11848,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" ""
+			(at 49.53 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Q13FC13500004"
+			(at 49.53 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b44f86fa-1409-4fd9-87dc-eaf5fd7e741e")
 		)
@@ -11302,6 +11950,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Generic" "x"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1823TCE"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11448,6 +12114,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 144.78 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 144.78 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f37ffbd7-228f-4a2e-982a-977a1bed63a4")
 		)
@@ -11524,6 +12208,24 @@
 			)
 		)
 		(property "LCSC Part #" "C102746"
+			(at 213.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" "x"
+			(at 213.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
 			(at 213.36 93.98 0)
 			(effects
 				(font
@@ -11694,6 +12396,24 @@
 				)
 			)
 		)
+		(property "Generic" ""
+			(at 173.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBD62003AFWG"
+			(at 173.99 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48334726-920f-4273-ba6b-12e179e482ed")
 		)
@@ -11821,6 +12541,24 @@
 				(hide yes)
 			)
 		)
+		(property "Generic" "x"
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RTT02000JTH"
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da7365f2-1238-4658-b54f-1913b021e046")
 		)
@@ -11895,6 +12633,24 @@
 			)
 		)
 		(property "LCSC Part #" "C191023"
+			(at 110.49 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Generic" ""
+			(at 110.49 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
 			(at 110.49 160.02 0)
 			(effects
 				(font
